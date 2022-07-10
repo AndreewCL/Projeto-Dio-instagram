@@ -46,7 +46,7 @@ body{
     min-height: 34rem;
 }
 
-.group{
+.grupo{
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -90,6 +90,12 @@ body{
 .instagram-logout{
     color: #0095f6;
     margin-top: 1rem;
+}
 
+.not-account{
+    color: #0095f6;
+}
 
+.link-blue{
+    color: #0095f6;
 }
